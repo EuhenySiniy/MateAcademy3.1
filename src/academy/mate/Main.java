@@ -15,4 +15,8 @@ public class Main {
     private void sleep() {
         System.out.println("Sleeping..");
     }
+
+    private void learnJava() {
+        System.out.println("Lerning Java..");
+    }
 }
