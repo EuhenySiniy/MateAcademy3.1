@@ -7,6 +7,6 @@ public class Main {
     }
 
     public void work() {
-        System.out.println("Working..");
+        System.out.println("Now i'm working..");
     }
 }
