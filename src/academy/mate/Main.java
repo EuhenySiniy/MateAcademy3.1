@@ -6,6 +6,7 @@ public class Main {
         Main main = new Main();
         main.work();
         main.sleep();
+        main.learnJava();
     }
 
     private void work() {
