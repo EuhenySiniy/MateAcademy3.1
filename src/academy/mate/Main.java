@@ -9,4 +9,8 @@ public class Main {
     public void work() {
         System.out.println("Working..");
     }
+
+    private void sleep() {
+        System.out.println("Sleeping..");
+    }
 }
