@@ -17,6 +17,6 @@ public class Main {
     }
 
     private void learnJava() {
-        System.out.println("Lerning Java..");
+        System.out.println("Learning Java..");
     }
 }
